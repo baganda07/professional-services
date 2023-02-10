@@ -42,7 +42,7 @@ grpc-google-iam-v1==0.11.4
 grpcio==1.16.0
 gunicorn==19.6.0
 idna==2.5
-ipython==5.8.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
 Jinja2==2.9.6
